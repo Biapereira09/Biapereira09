@@ -8,4 +8,4 @@ Meu nome é BIanca Pereira
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- ![](https://tenor.com/bZWKw.gif)
+![](https://tenor.com/bZWKw.gif)
